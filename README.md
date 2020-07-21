@@ -1,4 +1,4 @@
-#Experimental Codes for Neural Networks and Deep Learning
+# Experimental Codes for Neural Networks and Deep Learning
 
 Sequential Model training of a neural network model to classify images of clothing, like sneakers and shirts. 
 
